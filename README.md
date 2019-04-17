@@ -1,4 +1,7 @@
 # Webcam Paint Using OpenCV [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/akshaychandra21/Webcam_Paint_OpenCV/blob/master/LICENSE.txt)
+
+[UPDATE]: I will not be looking into issues or emails related to this repo anymore as I am currently very busy with other research commitments. Thank you.
+
 This code helps you track an object-of-interest to draw colored lines on the screen (just like the Paint application but using the webcam, which makes it both awesome and harder to draw simple things).
 
 ## Working Example
