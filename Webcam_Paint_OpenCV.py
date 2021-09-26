@@ -71,7 +71,7 @@ while True:
     blueMask = cv2.dilate(blueMask, kernel, iterations=1)
 
     # Find contours in the image
-    (_, cnts, _) = cv2.findContours(blueMask.copy(), cv2.RETR_EXTERNAL,
+    (cnts, _) = cv2.findContours(blueMask.copy(), cv2.RETR_EXTERNAL,
     	cv2.CHAIN_APPROX_SIMPLE)
     center = None
 
